@@ -46,3 +46,4 @@ allowed-items:
 ### 크레딧
 - GitHub [COIN-KR](https://github.com/COIN-KR)
 - GitHub [dacoonkr](https://github.com/dacoonkr)
+- 초기 아이디어 제공 [마플 마인크래프트 채널 - 너의 아이템이 보여(마인크래프트)](https://www.youtube.com/watch?v=C2KARkQc91g)
