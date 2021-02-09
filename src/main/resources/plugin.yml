@@ -1,0 +1,8 @@
+name: Obfuscated
+version: ${project.version}
+main: com.coinkr.obfuscated.obfuscated.Obfuscated
+authors: ['COIN-KR', 'dacoonkr']
+api-version: 1.16
+commands:
+  o:
+    description: Configure plugin

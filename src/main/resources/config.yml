@@ -1,0 +1,4 @@
+enable: true
+delay: 1
+allowed-items:
+  - all
