@@ -26,7 +26,7 @@ delay: 1
 # - all이 포함되었다면 모든 종류를 선택합니다
 # - 선택 가능한 항목 : wool, stained_glass, stained_glass_pane, carpet, terracotta, glazed_terracotta, bed, shulker_box, concrete, concrete_powder, banner, dye, spawn_egg, potion, splash_potion, lingering_potion, tipped_arrow, enchanted_book, music_disc
 allowed-items:
-	- all
+    - all
 ```
 
 ### 명령어
